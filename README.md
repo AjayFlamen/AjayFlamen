@@ -5,6 +5,7 @@
 - 👯 I’m looking to collaborate with other programmers and developers
 - 🥅 2021Goals: To have a strong foundation on data structures and Python
 - ⚡ Fun fact: I love to watch Anime in my spare time
+- 📫 How to reach me: Contact me directly on this mail ajayflamen369@gmail.com
 
 ### Connect with me:
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/ajay-flamen-raj-r-a720ba214/)
